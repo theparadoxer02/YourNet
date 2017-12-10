@@ -15,17 +15,32 @@ YourNet is a community-run Decentralized social networking platform, where your 
 
 ### Motivation: What's wrong with the currently prevalent Social platforms?
 
+
+TLDR;
+
+- Privacy and security
+- Biased content and services
+- Extensive monitoring
+- Reckless use of user's data for self-benefits
+- Single point of failure
+- Lack of knowledge of behind the scenes
+- Requirement of lots of trust
+
+**Slightly detailed description**
+
 The primary concern is privacy and security. More than 25% of total world population uses proprietary Social Media platforms which manipulate the sensitive data of their users for their own profits.
 
 Over the time, these platforms have turned into a marketing and monetization businesses with little or no consideration towards the actual benefits of social media.
 
-Moreover, the users of these platforms have absolutely no control on how their personal information or content is going to be used.
+The users of these platforms have absolutely no control on how their personal information or content is going to be used.
 
 As we are all aware, all the currently popular platforms are thriving by using sophisticated learning algorithms on the loads of user data they collect, and the real owners of the data (i.e. the users) are never ever renumerated for the valuable data they generate.
 
 All of our behavior and activities are being logged and utilized by these companies to come up with better strategies to excel in their bussiness. Even there's no guarantee that these companies aren't tapping into your personal chats for self-benefits.
 
 The content that we see in our News Feeds is highly selective and adjusted for financial benefits. Every now and then there are news and studies claiming biased treatment by these companies to different contents.
+
+Finally, we have to **trust** the platform owners for all our interactions with the platforms. These platforms are just like black-boxes. At a basic level, we just provide inputs and get the outputs displayed to our screens. We never know if the content and servies being delivered are legible because we don't know what's happening behind the scenes. Moreover, we have to trust that our data and content is safe and permanent. What if some day they start to charge you ridiculously high amounts for services they offer, or they crash and all your useful information is lost?
 
 
 ### Vision: What YourNet is intended to be?
