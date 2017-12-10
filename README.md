@@ -58,12 +58,12 @@ The long run features to implement will be decided unanimously by the community,
 
 ## Phases
 
-[ ] Feasiblity analysis
-[ ] Preparation of intial design architecture for minmal working platform
-[ ] Prototyping of different features and segments
-[ ] Concrete design for the basic platform
-[ ] Inviting users to test out the basic platform
-[ ] Discussion and design of Advanced features, which include
+- [ ] Feasiblity analysis
+- [ ] Preparation of intial design architecture for minmal working platform
+- [ ] Prototyping of different features and segments
+- [ ] Concrete design for the basic platform
+- [ ] Inviting users to test out the basic platform
+- [ ] Discussion and design of Advanced features, which include
     + Chats
     + Reward System for content
     + Renumeration for sharing data
@@ -78,3 +78,4 @@ Please read [CONTRIBUTING.md](https://github.com/satwikkansal/yournet/blob/maste
 ## License
 
 GNU General Public License v3.0 - see the [LICENSE](https://github.com/satwikkansal/yournet/blob/master/LICENSE) file for details.
+
