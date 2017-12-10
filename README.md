@@ -2,7 +2,7 @@
 
 <p align="center">Social Netwroking platform for the community, by the community.</p>
 
-<p align="center"><a href="https://gitter.im/YournetChat">Discuss</a> | <a href="#">Design Documentation (To be released)</a></p>
+<p align="center"><a href="https://gitter.im/YournetChat">Discuss</a> | <a href="#">Design Documentation (WIP)</a></p>
 
 
 [![Initial Logo](https://s8.postimg.org/tfvxxiu51/lines-1285363_1280.png)](https://postimg.org/image/5owkfetxt/)
@@ -16,7 +16,7 @@ YourNet is a community-run Decentralized social networking platform, where your 
 ### Motivation: What's wrong with the currently prevalent Social platforms?
 
 
-TLDR;
+**TLDR;**
 
 - Privacy and security
 - Biased content and services
@@ -73,7 +73,7 @@ The long run features to implement will be decided unanimously by the community,
 
 ## Phases
 
-- [ ] Feasiblity analysis
+- [x] Feasiblity analysis
 - [ ] Preparation of intial design architecture for minmal working platform
 - [ ] Prototyping of different features and segments
 - [ ] Concrete design for the basic platform
@@ -83,6 +83,13 @@ The long run features to implement will be decided unanimously by the community,
     + Reward System for content
     + Renumeration for sharing data
     + Other potential features agreed upon by the community
+
+## Screenshots
+
+A simple prototype has been implemented that uses blockchain to store and retrieve content. Here's how the client side application looks
+
+![Screenshot](https://github.com/satwikkansal/yournet/blob/master/screenshots/yournet_1.png)
+![Screenshot](https://github.com/satwikkansal/yournet/blob/master/screenshots/yournet_2.png)
 
 ## Contributing
 
