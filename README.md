@@ -45,7 +45,7 @@ Finally, we have to **trust** the platform owners for all our interactions with 
 
 ### Vision: What YourNet is intended to be?
 
-YourNet will be an attempt to create a platform which will just be a "Social networking platform" in truest sense and nothing else.
+YourNet will be an attempt to create a platform which will just be a "Social networking platform" in truest sense and nothing else. It is intended to be designed and driven by the community, for the community.
 
 This project is not an attempt to create another ICO in this so-called crypto-bubble, rather the project is aimed at providing the benefits of a decentralized architecture and modern technologies to the community in a transparent and unanimous way.
 
@@ -93,4 +93,3 @@ Please read [CONTRIBUTING.md](https://github.com/satwikkansal/yournet/blob/maste
 ## License
 
 GNU General Public License v3.0 - see the [LICENSE](https://github.com/satwikkansal/yournet/blob/master/LICENSE) file for details.
-
