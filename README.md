@@ -23,12 +23,16 @@ Moreover, the users of these platforms have absolutely no control on how their p
 
 As we are all aware, all the currently popular platforms are thriving by using sophisticated learning algorithms on the loads of user data they collect, and the real owners of the data (i.e. the users) are never ever renumerated for the valuable data they generate.
 
-**If you still don't feel that's a problem, here are some facts that can change your views:**
+All of our behavior and activities are being logged and utilized by these companies to come up with better strategies to excel in their bussiness. Even there's no guarantee that these companies aren't tapping into your personal chats for self-benefits.
+
+The content that we see in our News Feeds is highly selective and adjusted for financial benefits. Every now and then there are news and studies claiming biased treatment by these companies to different contents.
 
 
-### What YourNet is intended to be?
+### Vision: What YourNet is intended to be?
 
 YourNet will be an attempt to create a platform which will just be a "Social networking platform" in truest sense and nothing else.
+
+This project is not an attempt to create another ICO in this so-called crypto-bubble, rather the project is aimed at providing the benefits of a decentralized architecture and modern technologies to the community in a transparent and unanimous way.
 
 
 ### What makes YourNet truly "yours"?
@@ -43,17 +47,27 @@ YourNet will be an attempt to create a platform which will just be a "Social net
 
 Initially, the project is aimed to have very minimal features of a social platform - "**Find, post and connect**".
 
-The long run features to implement will be decided unanimously by the community, once YourNet has considerable amount of users.
+Users will have capability to control access and visiblity of their content.
+
+The long run features to implement will be decided unanimously by the community, once YourNet has considerable amount of users. Some of the possible ideas are:
+
+- Direct and Group chats having end to end encryption
+- Reward system for user generating valuable content based on appreciation by the community.
+- Ability to share your data for different academic or proprietary purposes and get compensated accordingly.
 
 
 ## Phases
 
-- Feasiblity analysis
-- Preparation of intial design architecture for minmal working platform
-- Rolling out prototypes
-- Discussion and design of Advanced features, which include
-    + Renumeration for the data
-    + Features selected by the community members
+[ ] Feasiblity analysis
+[ ] Preparation of intial design architecture for minmal working platform
+[ ] Prototyping of different features and segments
+[ ] Concrete design for the basic platform
+[ ] Inviting users to test out the basic platform
+[ ] Discussion and design of Advanced features, which include
+    + Chats
+    + Reward System for content
+    + Renumeration for sharing data
+    + Other potential features agreed upon by the community
 
 ## Contributing
 
