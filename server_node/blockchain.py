@@ -217,18 +217,21 @@ def new_transaction():
     values = request.get_json()
 
     # Check that the required fields are in the POST'ed data
-    required = ['author', 'body']
+    required = ['author', 'body', 'time']
 
     for k in required:
         if k not in values:
             return 'Missing values', 400
 
-    timestamp = time()
-
     # Create a new Transaction
-    index = blockchain.new_transaction(values['author'], values['body'], timestamp)
+    index = blockchain.new_transaction(values['author'],
+                                       values['body'],
+                                       values['time'])
 
-    response = {'message': 'Transaction will be added to Block {}'.format(index)}
+    response = {
+        'message': 'Transaction will be added to Block {}'.format(index)
+    }
+
     return jsonify(response), 201
 
 
@@ -282,7 +285,7 @@ if __name__ == '__main__':
 
     parser = ArgumentParser()
     parser.add_argument(
-        '-p', '--port', default=5000, type=int, help='port to listen on')
+        '-p', '--port', default=8000, type=int, help='port to listen on')
     args = parser.parse_args()
     port = args.port
 
