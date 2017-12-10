@@ -111,7 +111,7 @@ class Blockchain:
         self.chain.append(block)
         return block
 
-    def new_transaction(self, author, body, time):
+    def new_transaction(self, author, body, time, timestamp):
         """
         Creates a new transaction to go into the next mined Block
         :return: The index of the Block that will hold this transaction
@@ -120,6 +120,7 @@ class Blockchain:
             'author': author,
             'body': body,
             'time': time,
+            'server_timestamp': timestamp
         })
 
         return self.last_block['index'] + 1
@@ -226,11 +227,15 @@ def new_transaction():
     # Create a new Transaction
     index = blockchain.new_transaction(values['author'],
                                        values['body'],
-                                       values['time'])
+                                       values['time'],
+                                       time())
 
     response = {
         'message': 'Transaction will be added to Block {}'.format(index)
     }
+
+    #FIXME: This is done just for simplicity as of now.
+    mine()
 
     return jsonify(response), 201
 
