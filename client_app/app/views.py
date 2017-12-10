@@ -6,7 +6,7 @@ from flask import render_template, redirect, request
 from app import app
 
 CONNECTED_NODE_CHAIN_ADDRESS = "http://127.0.0.1:8000/chain"
-CONNECTED_NODE_NEW_TX_ADDRESS = "http://127.0.0.1:8000//transactions/new"
+CONNECTED_NODE_NEW_TX_ADDRESS = "http://127.0.0.1:8000/transactions/new"
 
 posts = []
 
@@ -21,9 +21,11 @@ def index():
 
 @app.route('/submit', methods=['POST'])
 def submit_textarea():
-    post_content = request.form["body"]
 
+    post_content = request.form["body"]
     author = request.form["author"]
+
+    print("Valid args receiveds")
 
     post_object = {
           'author': author,
